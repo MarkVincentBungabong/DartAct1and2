@@ -1,0 +1,6 @@
+void main(){
+  dynamic greetings = 'Welcome!';
+  dynamic name = 'Alice';
+  name = 25;
+  print('$greetings , $name');
+}
